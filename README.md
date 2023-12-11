@@ -1,6 +1,6 @@
 <h1 align="center" id="title">A Netflix Clone</h1>
 
-<p align="center"><img src="https://private-user-images.githubusercontent.com/12216430/286768196-29102d22-40f0-4ac1-a1ce-5063fc728f31.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEzMDAxMzAsIm5iZiI6MTcwMTI5OTgzMCwicGF0aCI6Ii8xMjIxNjQzMC8yODY3NjgxOTYtMjkxMDJkMjItNDBmMC00YWMxLWExY2UtNTA2M2ZjNzI4ZjMxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI5VDIzMTcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiNDU3YWIzYThiMjljNmRmNDBmMWQ3MDUyYTY4NmI2MTUwYjg3ZjA2MDMxMzZlMTg5M2VjODRkMzI0OWRhMjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Uw3Hzscbg5xTNhwN3a4JLArqFP_QHKiNYvvSy8CGPZs" alt="project-image"></p>
+![Untitled design (1)](https://github.com/MSatyam-Mishra/image-collection/assets/12216430/29102d22-40f0-4ac1-a1ce-5063fc728f31)
 
 <p id="description">Explore our Flutter app a Netflix-inspired creation that showcases a handpicked selection of movies and TV shows from a curated API. Dive into a seamless streaming experience browse through titles and access detailed information effortlessly.</p>
 
@@ -14,10 +14,4 @@
   
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
 
-*   Flutter
-*   Dart
-*   Bloc
-*   GetX
-*   API
