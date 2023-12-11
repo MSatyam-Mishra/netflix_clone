@@ -1,10 +1,11 @@
 <h1 align="center" id="title">A Netflix Clone</h1>
 
-![Untitled design (1)](https://github.com/MSatyam-Mishra/image-collection/assets/12216430/29102d22-40f0-4ac1-a1ce-5063fc728f31)
-
 <p id="description">Explore our Flutter app a Netflix-inspired creation that showcases a handpicked selection of movies and TV shows from a curated API. Dive into a seamless streaming experience browse through titles and access detailed information effortlessly.</p>
 
 <p align="center"><img src="https://img.shields.io/badge/Flutter-Dart-blue" alt="shields">   <img src="https://img.shields.io/badge/Netflix-App-red" alt="shields"></p>
+![Untitled design (1)](https://github.com/MSatyam-Mishra/image-collection/assets/12216430/29102d22-40f0-4ac1-a1ce-5063fc728f31)
+
+
 
 <h2>🚀 Demo</h2>
 
