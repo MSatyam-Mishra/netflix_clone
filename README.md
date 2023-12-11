@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Flutter-Dart-blue" alt="shields">   <img src="https://img.shields.io/badge/Netflix-App-red" alt="shields"></p>
 
-<h2>🖼️ Demo</h2>
+<h2>🖼️ Preview</h2>
 
 ![Untitled design (1)](https://github.com/MSatyam-Mishra/image-collection/assets/12216430/29102d22-40f0-4ac1-a1ce-5063fc728f31)
 
