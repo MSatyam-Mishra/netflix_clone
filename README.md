@@ -8,7 +8,7 @@
 
 ![Untitled design (1)](https://github.com/MSatyam-Mishra/image-collection/assets/12216430/29102d22-40f0-4ac1-a1ce-5063fc728f31)
 
-![image](https://github.com/user-attachments/assets/a7b11824-f43b-4898-931f-d59bd525b7e3)
+
 
 
 <h2>🚀 Demo</h2>
